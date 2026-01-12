@@ -7,7 +7,7 @@ TimedRandomNumber is a demo app that generates time-based one-time passcodes (OT
 # Preview
 
 <p align="left">
-  <img src="images/aa.png" width="25%">
+  <img src="screenshots/aa.png" width="25%">
 </p>
 
 # Tech Stack
